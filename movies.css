@@ -94,7 +94,7 @@ h4 {
 	padding: 5px;
 	color: #FFF;
 	margin: 0 auto;
-	background: #1abc9c;
+	background: #c41717;
 	font-size: 12px;
 	text-align: center;
 	font-style: normal;
@@ -102,6 +102,6 @@ h4 {
 }
 
 .delete-button:hover {
-    background: #109177;
+    background: #a50909;
 }
 
